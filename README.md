@@ -91,7 +91,7 @@ Enter a Reddit username when prompted (e.g. `u/elonmusk`) — the script will ge
 
 ![Persona PDF Screenshot](user_persona.png)
 
-> *(Add a real screenshot here of the generated PDF for better visual appeal)*
+
 
 ---
 
@@ -131,5 +131,5 @@ This tool is intended for educational or analytical use. Please ensure you compl
 
 ---
 
-```
+
 
