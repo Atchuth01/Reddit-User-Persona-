@@ -1,0 +1,4 @@
+praw
+nltk
+textblob
+fpdf2
