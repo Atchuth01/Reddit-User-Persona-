@@ -89,7 +89,7 @@ Enter a Reddit username when prompted (e.g. `u/elonmusk`) — the script will ge
 
 ## 📄 Example Output
 
-![Persona PDF Screenshot](example_output.png)
+![Persona PDF Screenshot](user_persona.png)
 
 > *(Add a real screenshot here of the generated PDF for better visual appeal)*
 
