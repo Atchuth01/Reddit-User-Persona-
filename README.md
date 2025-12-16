@@ -1,6 +1,7 @@
 
 # 🧠 Reddit User Persona Generator
 
+
 A smart script-based system that fetches Reddit user data and generates a **visually appealing, one-page persona PDF**, capturing user behavior, preferences, goals, and personality traits — useful for research, marketing, or user modeling.
 
 ---
