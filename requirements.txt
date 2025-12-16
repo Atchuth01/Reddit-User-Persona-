@@ -1,4 +1,6 @@
 praw
 nltk
 textblob
+fpdf
+streamlit
 fpdf2
