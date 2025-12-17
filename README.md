@@ -6,6 +6,9 @@ A smart script-based system that fetches Reddit user data and generates a **visu
 
 ---
 
+You can check my project here(public URL) : https://reddit--user-persona.streamlit.app/
+
+
 ## 🚀 Features
 
 - 🔍 Fetches Reddit user posts & comments using the Reddit API (via `praw`)
