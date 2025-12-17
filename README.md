@@ -8,6 +8,8 @@ A smart script-based system that fetches Reddit user data and generates a **visu
 
 You can check my project here(public URL) : https://reddit--user-persona.streamlit.app/
 
+[Note: ⚠️ This app may take a few seconds to wake up due to Streamlit Cloud inactivity.]
+
 
 ## 🚀 Features
 
